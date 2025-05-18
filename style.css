@@ -151,7 +151,7 @@ address{
 
 .intro{
     height: 1294px;
-    background: url(../img/bg_intro.webp);
+    background: url(./img/bg_intro.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -161,7 +161,7 @@ address{
 
 .intro::after{
     content: '';
-    background-image: url(../img/par.png);
+    background-image: url(./img/par.png);
     background-repeat: no-repeat;
     background-size: 100% 400px;
     background-position: bottom;
@@ -317,7 +317,7 @@ address{
 
 .content{
     height: auto;
-    background-image: url(../img/content_bg.webp);
+    background-image: url(./img/content_bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -330,7 +330,7 @@ address{
 
 .content::after{
     content: '';
-    background-image: url(../img/par.png);
+    background-image: url(./img/par.png);
     background-repeat: no-repeat;
     background-size: 100% 400px;
     background-position: center;
@@ -392,7 +392,7 @@ address{
 
 .executor-info{
     height: auto;
-    background-image: url(../img/content.jpg);
+    background-image: url(./img/content.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -543,7 +543,7 @@ address{
 
 .reviews::after{
     content: '';
-    background-image: url(../img/par.png);
+    background-image: url(./img/par.png);
     background-repeat: no-repeat;
     background-size: 100% 330px;
     background-position: center;
@@ -558,7 +558,7 @@ address{
 .reviews::before{
     content: '';
     transform: rotate(180deg);
-    background-image: url(../img/par.png);
+    background-image: url(./img/par.png);
     background-repeat: no-repeat;
     background-size: 100% 330px;
     background-position:top;
@@ -917,7 +917,7 @@ address{
 .footer::before {
     content: '';
     transform: rotate(180deg);
-    background-image: url(../img/par.png);
+    background-image: url(./img/par.png);
     background-repeat: no-repeat;
     background-size: 100% 400px;
     background-position: top;
